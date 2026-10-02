@@ -63,12 +63,11 @@
 | Project | What it shows |
 |---|---|
 | 🤖 **[autonomous-dataops-agent](https://github.com/shanmukhasaiteja/autonomous-dataops-agent)** | Agentic AI for data engineering: an agent that diagnoses broken pipelines from logs, fixes what is safe, escalates the rest, with approval gates, loop guards and an audit trail |
+| ⚙️ **[ai-ops-automation](https://github.com/shanmukhasaiteja/ai-ops-automation)** | AI automation: a signed-webhook service that triages alerts and tickets with a tool-calling LLM, constrained by deterministic policy rules (prompt-injection safe), and routes to Slack, PagerDuty and ticketing |
 | 🛡️ **[llm-security-scanner](https://github.com/shanmukhasaiteja/llm-security-scanner)** | AI security: tests LLM apps for prompt injection, system-prompt leakage, secret disclosure, jailbreaks and unsafe output (OWASP LLM Top 10) with canary-based detection, graded reports and a CI gate |
 | 🌊 **[secure-log-streaming-pipeline](https://github.com/shanmukhasaiteja/secure-log-streaming-pipeline)** | Real-time security lakehouse: Kafka → Spark Structured Streaming → Delta Lake (medallion) → dbt + Airflow, with live brute-force, port-scan and SQL injection detection, data-quality quarantine and CI |
 
-### 🚧 Currently building
-| Project | Focus |
-|---|---|
+---|---|
 | ⚙️ **ai-ops-automation** | Tool-calling workflow that triages alerts and tickets and routes them via webhooks |
 
 ---|---|
