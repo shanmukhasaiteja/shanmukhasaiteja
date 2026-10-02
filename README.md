@@ -12,7 +12,7 @@
 ### 🧭 About me
 - 🤖 I build **agentic AI systems**: multi-agent workflows, tool-using LLM agents, and AI automations that take real actions
 - 🔧 I design **data pipelines** from raw events to analytics-ready data, batch and streaming
-- 🧠 I ship **AI/ML in production**: RAG, evaluation pipelines, and models served behind APIs
+- 🧠 I build **AI-powered systems**: tool-using agents, LLM security testing, and AI automations
 - 🛡️ I bring a **security mindset** to data and AI, from AI-powered threat detection to red-teaming LLM apps
 - ⚡ **Hackathon builder:** two podium finishes at Outskill AI hackathons, both shipped in 24 hours
 
@@ -63,12 +63,12 @@
 | Project | What it shows |
 |---|---|
 | 🤖 **[autonomous-dataops-agent](https://github.com/shanmukhasaiteja/autonomous-dataops-agent)** | Agentic AI for data engineering: an agent that diagnoses broken pipelines from logs, fixes what is safe, escalates the rest, with approval gates, loop guards and an audit trail |
+| 🛡️ **[llm-security-scanner](https://github.com/shanmukhasaiteja/llm-security-scanner)** | AI security: tests LLM apps for prompt injection, system-prompt leakage, secret disclosure, jailbreaks and unsafe output (OWASP LLM Top 10) with canary-based detection, graded reports and a CI gate |
 | 🌊 **[secure-log-streaming-pipeline](https://github.com/shanmukhasaiteja/secure-log-streaming-pipeline)** | Real-time security lakehouse: Kafka → Spark Structured Streaming → Delta Lake (medallion) → dbt + Airflow, with live brute-force, port-scan and SQL injection detection, data-quality quarantine and CI |
 
 ### 🚧 Currently building
 | Project | Focus |
 |---|---|
-| 🛡️ **llm-security-scanner** | Automated testing of LLM apps for prompt injection, data leakage and jailbreaks |
 | ⚙️ **ai-ops-automation** | Tool-calling workflow that triages alerts and tickets and routes them via webhooks |
 
 ---|---|
