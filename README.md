@@ -59,10 +59,14 @@
 
 ---
 
+### 🚀 Featured projects
+| Project | What it shows |
+|---|---|
+| 🌊 **[secure-log-streaming-pipeline](https://github.com/shanmukhasaiteja/secure-log-streaming-pipeline)** | Real-time security lakehouse: Kafka → Spark Structured Streaming → Delta Lake (medallion) → dbt + Airflow, with live brute-force, port-scan and SQL injection detection, data-quality quarantine and CI |
+
 ### 🚧 Currently building
 | Project | Focus |
 |---|---|
-| 🌊 **secure-log-streaming-pipeline** | Real-time security log ingestion: Kafka → Spark → Delta Lake, orchestrated by Airflow, modeled with dbt |
 | 🔍 **ml-intrusion-detection** | Network anomaly detection with MLflow tracking, FastAPI serving and drift monitoring |
 | 🤖 **autonomous-dataops-agent** | AI agent that monitors pipelines, diagnoses failures and auto-remediates with human approval |
 | 🛡️ **llm-security-scanner** | Automated testing of LLM apps for prompt injection, data leakage and jailbreaks |
