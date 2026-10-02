@@ -67,14 +67,6 @@
 | 🛡️ **[llm-security-scanner](https://github.com/shanmukhasaiteja/llm-security-scanner)** | AI security: tests LLM apps for prompt injection, system-prompt leakage, secret disclosure, jailbreaks and unsafe output (OWASP LLM Top 10) with canary-based detection, graded reports and a CI gate |
 | 🌊 **[secure-log-streaming-pipeline](https://github.com/shanmukhasaiteja/secure-log-streaming-pipeline)** | Real-time security lakehouse: Kafka → Spark Structured Streaming → Delta Lake (medallion) → dbt + Airflow, with live brute-force, port-scan and SQL injection detection, data-quality quarantine and CI |
 
----|---|
-| ⚙️ **ai-ops-automation** | Tool-calling workflow that triages alerts and tickets and routes them via webhooks |
-
----|---|
-| 🔍 **ml-intrusion-detection** | Network anomaly detection with MLflow tracking, FastAPI serving and drift monitoring |
-| 🤖 **autonomous-dataops-agent** | AI agent that monitors pipelines, diagnoses failures and auto-remediates with human approval |
-| 🛡️ **llm-security-scanner** | Automated testing of LLM apps for prompt injection, data leakage and jailbreaks |
-
 ---
 
 ### 📊 GitHub stats
