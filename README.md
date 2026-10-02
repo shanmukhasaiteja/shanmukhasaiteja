@@ -2,7 +2,7 @@
 <h3 align="center">Data & AI Engineer · Agentic AI · Secure, production-grade AI systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shanmukh-tej-aab54620a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/🏆_Hackathon-1st_Place-FFD700?style=for-the-badge" alt="1st place"/>
   <img src="https://img.shields.io/badge/Open_to-Data_%26_AI_Roles-2ea44f?style=for-the-badge" alt="Open to roles"/>
 </p>
